@@ -1,6 +1,6 @@
 import React from "react";
 import Image, { StaticImageData } from "next/image";
-import homeSrc from "../public/a0.png";
+
 interface Iprops {
   imgUrl: StaticImageData;
   altTxt: string;
